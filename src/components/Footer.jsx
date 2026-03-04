@@ -108,7 +108,7 @@ export default function Footer() {
 
               <li className="flex gap-3 items-start">
                 <Phone size={18} />
-                +57 3042355776
+                +57 3019421567
               </li>
 
             

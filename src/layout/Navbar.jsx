@@ -14,7 +14,7 @@ export default function Navbar() {
   ];
 
   //  WhatsApp config
-  const phone = "573042355776";
+  const phone = "573019421567";
 
   const message =
     "Hola, vengo de tu página web y me gustaría agendar una conversación para conocer más sobre tus servicios y cómo podrían ayudar a mi proyecto.";
